@@ -1,12 +1,4 @@
----
-title: "Privacy Policy"
-layout: page
-sitemap: null
----
-
-<style type="text/css">
-header, footer { display: none; }
-</style>
+# Privacy Policy"
 
 We regularly collect and use information that could identify an individual (“**personal data**”), in particular about your purchase or use of our products, services, mobile and software applications and websites (“**you**”, “**your**”). The protection of your personal data is very important to us, and we understand our responsibilities to handle your personal data with care, to keep it secure and to comply with legal requirements.
 
@@ -17,9 +9,6 @@ Please read this Policy carefully. This Policy is not intended to override the t
 We may make changes to this Policy from time to time for example, to keep it up to date or to comply with legal requirements or changes in the way we operate our business. We encourage you to regularly check and review this policy so that you will always know what information we collect, how we use it, and who we share it with.
 
 This Privacy Policy was updated on 15th May, 2018.
-
-* TOC
-{:toc}
 
 #### **1. WHO is responsible for looking after your personal data?**
 
