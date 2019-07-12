@@ -1,3 +1,5 @@
+# Privacy Policy
+
 We regularly collect and use information that could identify an individual (“**personal data**”), in particular about your purchase or use of our products, services, mobile and software applications and websites (“**you**”, “**your**”). The protection of your personal data is very important to us, and we understand our responsibilities to handle your personal data with care, to keep it secure and to comply with legal requirements.
 
 The purpose of this privacy policy is to provide a clear explanation of when, why and how we collect and use personal data (“**Policy**”).
@@ -274,9 +276,6 @@ Please understand that due to the rapid development of computer and internet tec
 If you have any issue arising from this policy, including requests to exercise data subject rights, you can contact us as described below:
 
 **Email address:** funnyapps39@gmail.com
-
-
-**Address:** 8/F., Building 22E, Hong Kong Science Park, Shatin, Hong Kong
 
 If you have a complaint or concern about how we use your personal data, please contact us in the first instance and we will attempt to resolve the issue as soon as possible. You also have a right to lodge a complaint with your national data protection supervisory authority at any time. We do ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time.
 
