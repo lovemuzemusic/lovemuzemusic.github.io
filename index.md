@@ -1,5 +1,3 @@
-# Privacy Policy"
-
 We regularly collect and use information that could identify an individual (“**personal data**”), in particular about your purchase or use of our products, services, mobile and software applications and websites (“**you**”, “**your**”). The protection of your personal data is very important to us, and we understand our responsibilities to handle your personal data with care, to keep it secure and to comply with legal requirements.
 
 The purpose of this privacy policy is to provide a clear explanation of when, why and how we collect and use personal data (“**Policy**”).
@@ -182,65 +180,65 @@ You have a number of rights in relation to your personal data. In summary, you m
 
 Those underlined are defined in more detail as follows:
 
-> **_Access_**
-> 
-> You can ask us to:
-> 
-> - confirm whether we are processing your personal data;
-> - give you a copy of that data;
-> - provide you with other information about your personal data such as what data we have, what we use it for, who we disclose it to, whether we transfer it abroad and how we protect it, how long we keep it for, what rights you have, how you can make a complaint, where we got your data from and whether we have carried out automated decision making or profiling, to the extent that information has not already been provided to you in this Policy.
-> 
-> **_Rectification_**
-> 
-> You can ask us to rectify inaccurate personal data. We may seek to verify the accuracy of the data before rectifying it.
-> 
-> **_Erasure_**
-> 
-> You can ask us to erase your personal data, but only where:
-> 
-> - it is no longer needed for the purposes for which it was collected; or
-> - you have withdrawn your consent (where the data processing was based on consent); or
-> - following a successful right to object (see “objection” below); or
-> - it has been processed unlawfully; or
-> - to comply with a legal obligation which it is subject to.
-> 
-> We are not required to comply with your request to erase your personal data if the processing of your personal data is necessary: for compliance with a legal obligation; or for the establishment, exercise or defense of legal claims. There are certain other circumstances in which we are not required to comply with your erasure request, although these two are the most likely circumstances where we would deny that request.
-> 
-> **_Restriction_**
-> 
-> You can ask us to restrict (i.e. keep but not use) your personal data, but only where:
-> 
-> - its accuracy is contested (see “rectification” below), to allow us to verify its accuracy; or
-> - the processing is unlawful, but you do not want it erased; or
-> - it is no longer needed for the purposes for which it was collected, but we still need it to establish, exercise or defend legal claims; or
-> - you have exercised the right to object, and verification of overriding grounds is pending.
-> 
-> We can continue to use your personal data following a request for restriction, where:
-> 
-> - we have your consent; or
-> - to establish, exercise or defend legal claims; or
-> - to protect the rights of another natural or legal person.
-> 
-> **_Portability_**
-> 
-> You can ask us to provide your personal data to you in a structured, commonly used, machine-readable format, or you can ask to have it “ported” directly to another data controller, but in each case only where: the processing is based on your consent or the performance of a contract with you; and the processing is carried out by automated means.
-> 
-> **_Objection_**
-> 
-> You can object to any processing of your personal data which has our legitimate interests as its legal basis (see Section 4 or contact us for further details), if you believe your fundamental rights and freedoms outweigh our legitimate interests. Once you have objected, we have an opportunity to demonstrate that we have compelling legitimate interests which override your rights.
-> 
-> **_Automated Decision Making_**
-> 
-> You can ask not to be subject to a decision which is based solely on automated processing (see Section 8), but only where that decision:
-> 
-> - produces legal effects concerning you (such as the rejection of a claim); or
-> - otherwise significantly affects you. 
-> 
-> In such situations, you can obtain human intervention in the decision making, and we will ensure measures are in place to allow you to express your point of view, and / or contest the automated decision. Your right to obtain human intervention or to contest a decision does not apply where the decision which is made following automated decision making:
-> 
-> - is necessary for entering into or performing a contract with you;
-> - is authorized by law and there are suitable safeguards for your rights and freedoms; or
-> - is based on your explicit consent.
+**_Access_**
+
+You can ask us to:
+
+- confirm whether we are processing your personal data;
+- give you a copy of that data;
+- provide you with other information about your personal data such as what data we have, what we use it for, who we disclose it to, whether we transfer it abroad and how we protect it, how long we keep it for, what rights you have, how you can make a complaint, where we got your data from and whether we have carried out automated decision making or profiling, to the extent that information has not already been provided to you in this Policy.
+ 
+**_Rectification_**
+ 
+You can ask us to rectify inaccurate personal data. We may seek to verify the accuracy of the data before rectifying it.
+ 
+**_Erasure_**
+ 
+You can ask us to erase your personal data, but only where:
+ 
+- it is no longer needed for the purposes for which it was collected; or
+- you have withdrawn your consent (where the data processing was based on consent); or
+- following a successful right to object (see “objection” below); or
+- it has been processed unlawfully; or
+- to comply with a legal obligation which it is subject to.
+ 
+We are not required to comply with your request to erase your personal data if the processing of your personal data is necessary: for compliance with a legal obligation; or for the establishment, exercise or defense of legal claims. There are certain other circumstances in which we are not required to comply with your erasure request, although these two are the most likely circumstances where we would deny that request.
+ 
+**_Restriction_**
+ 
+You can ask us to restrict (i.e. keep but not use) your personal data, but only where:
+ 
+- its accuracy is contested (see “rectification” below), to allow us to verify its accuracy; or
+- the processing is unlawful, but you do not want it erased; or
+- it is no longer needed for the purposes for which it was collected, but we still need it to establish, exercise or defend legal claims; or
+- you have exercised the right to object, and verification of overriding grounds is pending.
+ 
+We can continue to use your personal data following a request for restriction, where:
+ 
+- we have your consent; or
+- to establish, exercise or defend legal claims; or
+- to protect the rights of another natural or legal person.
+ 
+**_Portability_**
+ 
+You can ask us to provide your personal data to you in a structured, commonly used, machine-readable format, or you can ask to have it “ported” directly to another data controller, but in each case only where: the processing is based on your consent or the performance of a contract with you; and the processing is carried out by automated means.
+ 
+**_Objection_**
+
+You can object to any processing of your personal data which has our legitimate interests as its legal basis (see Section 4 or contact us for further details), if you believe your fundamental rights and freedoms outweigh our legitimate interests. Once you have objected, we have an opportunity to demonstrate that we have compelling legitimate interests which override your rights.
+ 
+**_Automated Decision Making_**
+ 
+You can ask not to be subject to a decision which is based solely on automated processing (see Section 8), but only where that decision:
+
+- produces legal effects concerning you (such as the rejection of a claim); or
+- otherwise significantly affects you. 
+
+In such situations, you can obtain human intervention in the decision making, and we will ensure measures are in place to allow you to express your point of view, and / or contest the automated decision. Your right to obtain human intervention or to contest a decision does not apply where the decision which is made following automated decision making:
+
+- is necessary for entering into or performing a contract with you;
+- is authorized by law and there are suitable safeguards for your rights and freedoms; or
+- is based on your explicit consent.
 
 To exercise your rights you may contact us as set out in Section 12. Please note the following if you do wish to exercise these rights:
 
@@ -275,7 +273,8 @@ Please understand that due to the rapid development of computer and internet tec
 
 If you have any issue arising from this policy, including requests to exercise data subject rights, you can contact us as described below:
 
-**Email address:** himusiclab@gmail.com
+**Email address:** funnyapps39@gmail.com
+
 
 **Address:** 8/F., Building 22E, Hong Kong Science Park, Shatin, Hong Kong
 
