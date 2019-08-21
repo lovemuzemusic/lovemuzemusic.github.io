@@ -14,9 +14,11 @@ This Privacy Policy was updated on 15th May, 2016.
 
 The platform can give you access to websites, databases, networks, servers, information, software, programs, systems, directories, applications, products or services, third party (hereinafter "external services", "3rd-party services"). We only use YouTube and Soundcloud API compatible with their policy. We are only an unofficial 3rd-party client that complies with their 3rd party API terms of service. It is NOT an affiliated nor related product of those services. Per their API developer terms you do not need special approval to use these APIs or to promote API functionality in your application provided that the guidelines are followed. All trademarks and copyrights belong to their respective owners and are used here under the terms of Fair. Use and the Digital Millennium Copyrights Act (DMCA).
 
-YouTube API Services Terms of Service: [https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service)
+YouTube API Services Terms of Service: 
+[https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service)
 
-SoundCloud Terms of Use: [https://soundcloud.com/terms-of-use](https://soundcloud.com/terms-of-use)
+SoundCloud Terms of Use: 
+[https://soundcloud.com/terms-of-use](https://soundcloud.com/terms-of-use)
 
 #### **2. WHAT personal data do we collect?**
 
