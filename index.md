@@ -10,9 +10,13 @@ We may make changes to this Policy from time to time for example, to keep it up 
 
 This Privacy Policy was updated on 15th May, 2018.
 
-#### **1. WHO is responsible for looking after your personal data?**
+#### **1. DESCRIPTION Of third party service**
 
-We are a China-based telecommunication company focusing on internet application services. Wwe are responsible for collecting information about you, it will be the data controller. You should be aware that although we may be principally responsible for looking after your personal data, information may be held in databases which can be accessed by other affiliate companies.
+The platform can give you access to websites, databases, networks, servers, information, software, programs, systems, directories, applications, products or services, third party (hereinafter "external services", "3rd-party services"). We only use YouTube and Soundcloud API compatible with their policy. We are only an unofficial 3rd-party client that complies with their 3rd party API terms of service. It is NOT an affiliated nor related product of those services. Per their API developer terms you do not need special approval to use these APIs or to promote API functionality in your application provided that the guidelines are followed. All trademarks and copyrights belong to their respective owners and are used here under the terms of Fair. Use and the Digital Millennium Copyrights Act (DMCA).
+
+YouTube API Services Terms of Service: [https://developers.google.com/youtube/terms/api-services-terms-of-service](http://https://developers.google.com/youtube/terms/api-services-terms-of-service)
+
+SoundCloud Terms of Use: [https://soundcloud.com/terms-of-use](https://soundcloud.com/terms-of-use)
 
 #### **2. WHAT personal data do we collect?**
 
@@ -275,7 +279,7 @@ Please understand that due to the rapid development of computer and internet tec
 
 If you have any issue arising from this policy, including requests to exercise data subject rights, you can contact us as described below:
 
-**Email address:** funnyapps39@gmail.com
+**Email address:** <funnyapps39@gmail.com>
 
 If you have a complaint or concern about how we use your personal data, please contact us in the first instance and we will attempt to resolve the issue as soon as possible. You also have a right to lodge a complaint with your national data protection supervisory authority at any time. We do ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time.
 
