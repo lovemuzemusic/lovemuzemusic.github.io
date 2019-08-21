@@ -8,7 +8,7 @@ Please read this Policy carefully. This Policy is not intended to override the t
 
 We may make changes to this Policy from time to time for example, to keep it up to date or to comply with legal requirements or changes in the way we operate our business. We encourage you to regularly check and review this policy so that you will always know what information we collect, how we use it, and who we share it with.
 
-This Privacy Policy was updated on 15th May, 2018.
+This Privacy Policy was updated on 15th May, 2016.
 
 #### **1. DESCRIPTION Of third party service**
 
